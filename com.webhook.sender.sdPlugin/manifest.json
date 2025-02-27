@@ -1,0 +1,22 @@
+{
+    "Actions": [{
+      "UUID": "com.webhook.sender",
+      "Name": "Webhook Sender",
+      "Tooltip": "Sende Webhooks auf Knopfdruck",
+      "Icon": "icons/icon",
+      "States": [{
+        "Image": "icons/icon.png",
+        "Title": "Webhook",
+        "FontSize": 14
+      }],
+      "PropertyInspectorPath": "propertyinspector/index.html"
+    }],
+    "SDKVersion": 2,
+    "Version": "1.0",
+    "Name": "Webhook Sender",
+    "Description": "Sende Webhooks über Stream Deck",
+    "Category": "Internet",
+    "Author": "Dein Name",
+    "URL": "https://github.com/deinname/streamdeck-webhook"
+  }
+  
